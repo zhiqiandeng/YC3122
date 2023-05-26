@@ -18,7 +18,7 @@
 * C：输入信号
 * ANA_IN : 0xf87xx[7:6] 为0x11 控制ANA_IN 使能 IO将上下拉
 
-<pre class="vditor-reset" placeholder="" contenteditable="true" spellcheck="false"><p data-block="0"><img src="https://file+.vscode-resource.vscode-cdn.net/d%3A/work/module/docsify/YC3122/md/image/GPIO/1680263519212.png" alt="1680263519212"/></p></pre>
+[![1685093741343](image/GPIO/1685093741343.png)]()
 
 ### 通用输入输出
 
