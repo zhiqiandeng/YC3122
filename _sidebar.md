@@ -4,3 +4,4 @@
 * 模块使用
     * [PWR](md/PWR.md)
     * [Charge](md/Charge.md)
+	* [GPIO](md/GPIO.md)
