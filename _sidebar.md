@@ -5,3 +5,5 @@
     * [PWR](md/PWR.md)
     * [Charge](md/Charge.md)
 	* [GPIO](md/GPIO.md)
+	* [I2c](md/I2c.md)
+	* [Crypt](md/Crypt.md)
